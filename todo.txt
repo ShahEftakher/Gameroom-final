@@ -1,0 +1,67 @@
+======================
+        left
+======================
+ui design
+
+
+/** pagination **/
+****forum posts on profile page
+edit post
+delete post
+
+
+=======================
+        By today
+=======================
+
+-----------------------
+
+
+
+
+
+***********************
+        git
+***********************
+
+
+
+=======================
+        done
+=======================
+
+like
+like count
+comment
+video by like
+video by newest
+forgot password
+password update
+Upload status bar
+Uploading(status)
+all videos page
+catergories
+add like initial video upload
+sort by like
+sort by newest
+filter video
+view User profile
+edit uploaded video
+limit video retrieve
+redirect to all videos page
+email verification of content creator
+password reset module
+forgot password module
+**mentor stats
+
+**** fix profile page ****
+- ** send userinfo req every update
+- ** call for video after that
+- ** on querySnapshot video from db for profile 
+
+***video thumbnail:
+        - Let the user upload their thumbnail
+
+forum:
+post 
+comment
